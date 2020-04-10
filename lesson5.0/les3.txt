@@ -1,0 +1,4 @@
+Ivanov 18000
+Petrov 22000
+Smirnov 23000
+Voronin 19000
